@@ -1,5 +1,7 @@
 # AI Sketch to 3D Model Generator
 
+live demo link : https://youtu.be/jFPi7kX2iis
+
 Convert a hand-drawn sketch into an interactive 3D model using computer vision and AI. The application captures a stable webcam image, removes its background, reconstructs it into a 3D model using the Tripo3D API, and automatically displays the generated model in a rotating 3D viewer.
 
 ## Features
